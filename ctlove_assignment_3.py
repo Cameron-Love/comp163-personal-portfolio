@@ -26,11 +26,11 @@ hobbies_set = {"Gaming", "Chess", "Reading", "Pool", "Music"}
 entertainment_backlog_set = {"Code Geass", "Her", "Hunter X Hunter", "Inception", "Memento"}
 
 #Organizational Mapping
-course_credits_dictionary = {"COMP 163": 3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
-course_professors_dictionary = {"COMP 163": "Prof. Rhodes", "MATH 150": "Dr. Lee", "ENG 101": "Dr. Martinez", "HIS 105": "Dr. Brown"}
-course_rooms_dictionary = {"COMP 163": "M-Eric 300", "MATH 150": "Marteena 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
-monthly_budget_dictionary = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
-study_hrs_per_subject_dictionary = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
+course_credits_dictionary = {"COMP 163": 3, "MATH 131": 4, "ENG 100": 3, "HIS 106": 3, "GEEN 111": 1, "FRST 100": 2}
+course_professors_dictionary = {"COMP 163": "Prof. Rhodes", "MATH 131": "Dr.Tankersley", "ENG 100": "Dr. Armstrong", "HIS 106": "Dr. Devoe", "GEEN 111": "Dr. Parrish", "FRST 100": "Dr. Barrow"}
+course_rooms_dictionary = {"COMP 163": "M-Eric 300", "MATH 131": "Marteena 216", "ENG 100": "Crosby 215", "HIS 106": "Online", "GEEN 111": "McNair 239", "FRST 100": "Online"}
+monthly_budget_dictionary = {"Food": 200, "Entertainment": 20, "Books": 50, "Transportation": 20}
+study_hrs_per_subject_dictionary = {"Programming": 10, "Math": 10, "English": 3, "History": 2, "Engineering": 1, "Freshman": 1}
 contact_directory_dictionary = {"Mom": "704-555-0199", "Roommate": "336-555-7821", "Academic Advisor": "336-334-5000"}
 
 total_credit_hours =  sum(credit_hours_list) # Adds all the values in the credit hours list
