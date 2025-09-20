@@ -6,17 +6,17 @@ graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #Academic Data Organization
-current_courses_list = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
+current_courses_list = ["COMP 163", "MATH 131", "ENG 100", "HIS 106", "GEEN 111", "FRST 100"]
 completed_courses_list = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
-credit_hours_list = [3, 3, 3, 3]
+credit_hours_list = [3, 4, 3, 3, 1, 1]
 gpa_history_list = [3.2, 3.6, 3.4, 3.7]
 
 #Contact Information Storage
-emergency_contact_tuple = ("Mom", "Hannah Smith", "704-555-0199" )
-home_address_tuple = ("456 Oak Street", "Charlotte", "NC", "28202")
-instagram_info_tuple = ("Instagram", "@jordan_codes", 312)
-twitter_info_tuple = ("Twitter", "@jordandev", 127)
-birthday_tuple = ("Birthday", "5", "22", "2006")
+emergency_contact_tuple = ("Mom", "Antiknea Love", "704-555-0199" )
+home_address_tuple = ("456 John Doe", "Hampton", "VA", "23665")
+instagram_info_tuple = ("Instagram", "@cam_luv07", 512)
+twitter_info_tuple = ("Twitter", "@cam_luv07", 107)
+birthday_tuple = ("Birthday", "7", "19", "2007")
 
 #Interest Tracking
 current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
