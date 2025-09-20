@@ -1,8 +1,8 @@
 #Personal Information Storage
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown_charlotte =  "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Cameron Love"
+student_email = "ctlove@ncat.edu"
+hometown_charlotte =  "Hampton, VA"
+graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #Academic Data Organization
