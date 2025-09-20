@@ -19,11 +19,11 @@ twitter_info_tuple = ("Twitter", "@cam_luv07", 107)
 birthday_tuple = ("Birthday", "7", "19", "2007")
 
 #Interest Tracking
-current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interests_set = {"Software development", "Web development" , "Data science", "Game development"}
-hobbies_set = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog_set = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills_set = {"Python basics", "HTML", "Problem solving", "Time management", "Public speaking"}
+skills_to_learn_set = {"JavaScript", "Data structures", "Git", "Web design", "Poetry"}
+career_interests_set = {"Software devlopment", "Web development" , "Data science", "Game development"}
+hobbies_set = {"Gaming", "Chess", "Reading", "Pool", "Music"}
+entertainment_backlog_set = {"Code Geass", "Her", "Hunter X Hunter", "Inception", "Memento"}
 
 #Organizational Mapping
 course_credits_dictionary = {"COMP 163": 3, "MATH 150": 3, "ENG 101": 3, "HIS 105": 3}
